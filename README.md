@@ -1,0 +1,2 @@
+# Shop
+There are five stores, three customers and one forklift. Shops are the main stream, created with 1000 + - 100 units. Customers are side flows, they are created with 10000 + - 1000 units, every three seconds each customer buys all units of the store spending the same amount of their units. The loader is a side stream, every 2 seconds it adds 500 units to a store. The program ends when all buyers spend their units, the program displays all the information during operation.
